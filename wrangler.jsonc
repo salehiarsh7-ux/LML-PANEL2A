@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json.schemastore.org/wrangler.json",
+  "name": "lml-panel2aa",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-27"
+}
